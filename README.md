@@ -12,11 +12,6 @@
 - **ZIP & Standalone APK Export:** Export your creations as HTML5 ZIP files or standalone Android APKs.
 - **Background Builds:** Switch apps while builds run in your notification shade.
 
-## Pricing
-- **Free Trial:** 3 free generations included.
-- **APIStudio Pro ($6.99 one-time):** Unlimited generations on 1 Android device (BYOK).
-  👉 **[Buy Pro License Key on Gumroad](https://sixthd.gumroad.com/l/apistudio)**
-
 ## Play Protect Install Note
 Because APIStudio is distributed outside the Play Store and includes a local APK packager and background build service, Google Play Protect may flag the APK as unrecognized.
 - Tap **More details → Install anyway** when installing.
